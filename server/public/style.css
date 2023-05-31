@@ -1,0 +1,51 @@
+header {
+    background-color: rgb(98, 98, 98);
+    border: 1px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-size: 25px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.container {
+    max-width: 650px;
+    background-color: rgb(161, 179, 179);
+    border-radius: 10px;
+    padding: 30px;
+    margin: 15px;
+}
+
+#output {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 25px;
+    text-align: end;
+    margin-bottom: 20px; 
+}
+
+input {
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.btns{ 
+    padding: 8px;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: rgb(48, 83, 83);
+    color: aliceblue;
+}
+
+.btn{ 
+    padding: 8px;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: orange;
+}
